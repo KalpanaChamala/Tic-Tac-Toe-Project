@@ -41,6 +41,7 @@ Technology Stack
 
 
 # Brief Description of Agents
+
 # Min-Max Algorithm
 
   a.It's a recursive/backtracking algorithm that's utilized in decision-making and game theory.
@@ -51,7 +52,9 @@ Technology Stack
 
   d.This Algorithm is commonly employed in games such as Chess, Tic Tac Toe, and other two-player games.
 
-  e. To explore the entire game, our algorithm uses a Depth-First Search. It goes all the way down to the terminal node and     ther ecurses back up.
+  e. To explore the entire game, our algorithm uses a Depth-First Search. It goes all the way down to the terminal node and  ther ecurses back up.
+  
+  ![](https://github.com/KalpanaChamala/Tic-Tac-Toe-Project/blob/main/tic%20tac%20toe/min%20max.jpeg)
 
             
 
