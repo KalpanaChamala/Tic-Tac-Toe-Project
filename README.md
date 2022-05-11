@@ -36,6 +36,7 @@ The Second approach we used is from Adversarial Search.
 Technology Stack
 
 1.Python 3
+
 ![](https://github.com/KalpanaChamala/Tic-Tac-Toe-Project/blob/main/tic%20tac%20toe/Image.png)
 
 
