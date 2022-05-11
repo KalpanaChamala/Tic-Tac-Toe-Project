@@ -1,5 +1,8 @@
 # Tic Tac Toe Implementation using Multi Agents
 
+
+![](https://github.com/KalpanaChamala/Tic-Tac-Toe-Project/blob/main/tic%20tac%20toe/tic%201.webp)
+
    
 
 # Introduction
