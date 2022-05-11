@@ -78,8 +78,11 @@ determined by the min max algorithm. It is a two-player game with an adversarial
    ![](https://github.com/KalpanaChamala/Tic-Tac-Toe-Project/blob/main/tic%20tac%20toe/q%20learning.jpeg)
 
  # Reinforcement Learing
+ 
    It's a machine learning technique that allows the agent to learn by trial and error in an interactive environment, using 
 input from its own actions and experiences.  
+
+![](https://github.com/KalpanaChamala/Tic-Tac-Toe-Project/blob/main/tic%20tac%20toe/reinforcemt.png)
 
        
 
