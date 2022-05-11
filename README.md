@@ -68,11 +68,14 @@ determined by the min max algorithm. It is a two-player game with an adversarial
 
          
 
-# Q-Learning    
+# Q-Learning   
+
     Q-Learning is a prominent reinforcement learning method based on the Bellman Equation, in which the agent tries to learn the 
        policies that provide the optimal behaviors to take in order to maximize the rewards. These best moves are learned from previous experiences.
     It is always used to represent the quality of actions taken at each state, with the agent's purpose being to maximize the
        value of "Q."    
+       
+   ![](https://github.com/KalpanaChamala/Tic-Tac-Toe-Project/blob/main/tic%20tac%20toe/q%20learning.jpeg)
 
  # Reinforcement Learing
    It's a machine learning technique that allows the agent to learn by trial and error in an interactive environment, using 
