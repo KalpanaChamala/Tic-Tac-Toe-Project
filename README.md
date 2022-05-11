@@ -28,11 +28,15 @@ Comparing the efficiency of three algorithms by calculating the corresponding pe
 
 # Approaches
 The first Approach is Q-Learning from Reinforcement Learning. 
+
 The Second approach we used is from Adversarial Search.
            1.Min-Max Algorithm
            2.Alpha-Beta Pruning.
+           
 Technology Stack
+
 1.Python 3
+![](https://github.com/KalpanaChamala/Tic-Tac-Toe-Project/blob/main/tic%20tac%20toe/Image.png)
 
 
 # Brief Description of Agents
